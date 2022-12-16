@@ -1,0 +1,15 @@
+name: deploy-gh-pages
+on:
+  push:
+    branches: [master]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: redkubes/docusaurus-deploy-action@v1
+        with:
+          source-folder: website
+          git-user: $SOME_USERNAME
+          git-password: ${{ secrets.GITHUB_TOKEN }}
+          deployment-branch: gh-pages
