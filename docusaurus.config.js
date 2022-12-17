@@ -9,7 +9,7 @@ const config = {
   title: "Foundance Docs",
   tagline: "Founder's Handbook",
   url: "https://docs.foundance.com",
-  baseUrl: "/",
+  baseUrl: "/foundance-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
