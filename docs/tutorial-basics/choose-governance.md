@@ -12,7 +12,7 @@ import Highlight from '../../src/components/Highlight';
 ![Governance Model](/img/5-voting.png "Governance Model")
 </BrowserWindow>
 
-The final step before your agreement overview is setting up your governance model. You can read more about each of the proposed models on our [blog]()https://foundance.org/).
+The final step before your agreement overview is setting up your governance model. You can read more about each of the proposed models on our [blog](https://foundance.org/).
 
 This will set how your voting system will look like We offer three different voting mechanisms:
 
@@ -67,3 +67,5 @@ following our above examples, you would need three people (among Andreas, Tom, S
 :::info
 In this voting method, you would need more than half of the people to get to a majority vote.
 :::
+
+When you are happy, click <Highlight>next</Highlight>
