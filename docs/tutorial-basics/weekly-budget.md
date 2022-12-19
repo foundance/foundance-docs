@@ -2,16 +2,16 @@
 sidebar_position: 2.8
 ---
 
+import BrowserWindow from '../../src/components/BrowserWindow';
+import Highlight from '../../src/components/Highlight';
+
 # Weekly Budget
 
-How much equity do you want to hand out to other co-founders and contributors? A basic understanding of market salaries of participants might help to evaluate the token share.
+You may have expenses outside of salary payment that you wish to convert to equity each week - maybe this is software licenses, or maybe you had to get a train, taxi or plane to a meeting, the weekly budget allows a pre-approved limit to be set on your expenses before you have to seek approval in the [Ad-hoc expenses process](../running-a-foundance/ad-hoc-expenses.md).
 
-:::caution Attention
-Usually founders want to work on eye-level, so please don't try to outperform your co-founders with _rockstar salaries you wished to have received one day_.
-:::
+<BrowserWindow url="https://app.foundance.org/project/10001/agreement">
 
-In `Fair Market` salaries you define with your co-founders what your salary expectations in the fiat world might be. We usually consider this to be a process of mutual understanding on eye level, as you usually only pick co-founders on a similar level like yourself. Consider you want to start a project with that person and you will gain tokens/equity in the project over time in relation to your co-founders.
+![Weekly Budget](/img/5-budget.png "Weekly Budget")
+</BrowserWindow>
 
-:::tip
-Please also state wether you want to work full-time (5 workdays per week) or only part-time with less workdays per week.
-:::
+When you are happy, click <Highlight>next</Highlight>
