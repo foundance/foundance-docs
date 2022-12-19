@@ -62,7 +62,7 @@ const config = {
             label: "Cofounder Handbook",
           },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/foundance/foundance-docs",
             label: "GitHub",
             position: "right",
           },
@@ -106,7 +106,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/foundance",
               },
             ],
           },
