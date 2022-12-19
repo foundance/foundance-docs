@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2.4
+sidebar_position: 2.5
 ---
 
 # Define salaries / vested shares

@@ -11,7 +11,7 @@ To **create a project** from the `dashboard` click the <Highlight>create project
 
 <BrowserWindow url="https://app.foundance.org/dashboard">
 
-![create a project](/img/3-find-a-project.jpg "Create a project")
+![create a project](/img/3-find-a-project.png "Create a project")
 </BrowserWindow>
 
 To start a project, type the name of your project:

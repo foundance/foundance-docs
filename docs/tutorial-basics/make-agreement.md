@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2.6
+sidebar_position: 2.4
 ---
 
 # Make an agreement
