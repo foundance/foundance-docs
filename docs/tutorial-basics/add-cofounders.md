@@ -51,7 +51,7 @@ In this step, you can also **`invite cofounder`** by email for this role. or by 
 
 <BrowserWindow url="https://app.testnet.foundance.org/dashboard/roadmap/founders/[project-id]/[role-id]">
 
-![Send Invitation](/img/4-send-invitation "Sned Invitation")
+![Send Invitation](/img/4-send-invitation.png "Send Invitation")
 </BrowserWindow>
 
 Once invited you can see them show up at the `invited co-founders` section.

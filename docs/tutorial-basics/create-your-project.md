@@ -27,7 +27,7 @@ Upon confirmation, you will be redirected to your project details page. The bett
 
 <BrowserWindow url="https://app.foundance.org/dashboard/project-details/10001/edit">
 
-![Project Details](/img/3-complete-project-detail.png "Project details")
+![Project Details](/img/3-create-project-detail.png "Project details")
 </BrowserWindow>
 
 You can provide the following inputs:

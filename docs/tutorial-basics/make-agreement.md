@@ -19,7 +19,7 @@ The first thing to do is to go to your project tab and check the founders' agree
 
 <BrowserWindow url="https://app.foundance.org/project/10001/agreement">
 
-![Creaate an Agreement](/img/5-create-agreement-step-1 "Create and Agreement")
+![Creaate an Agreement](/img/5-create-agreement-step-1.png "Create and Agreement")
 </BrowserWindow>
 
 This screen signifies the start of your projects journey to an on chain entity, so we need 3 things from you:
