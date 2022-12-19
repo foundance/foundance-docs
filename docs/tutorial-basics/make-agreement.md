@@ -5,11 +5,11 @@ sidebar_position: 2.4
 import BrowserWindow from '../../src/components/BrowserWindow';
 import Highlight from '../../src/components/Highlight';
 
-# Sign it on Chain
+# Make an Agreement
 
 In order to creaate your on-chain agreement every team member is going to have to sign the cofounder agreement to indicate that they agree with the parameters that have been set. As the creator you will do the initial configuration, and commit it to the chain, from which point the other cofounders can come and give their thumbs up.
 
-# Make an agreement
+# Let's get Started
 
 As you started your project, get the idea and team to work on it - there are still some things to do. The foundation of our platform is to ensure all of the people involved in the project are secure and we ensure that with the agreement between them - based on the dynamic equity model. We'll walk you step by step through setting up your agreement.
 
