@@ -1,6 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 2.2
 ---
+
 import BrowserWindow from '../../src/components/BrowserWindow';
 import Highlight from '../../src/components/Highlight';
 
@@ -25,7 +26,7 @@ To start a project, type the name of your project:
 
 ## Define your idea thoroughly
 
-Upon confirmation, you will be redirected to your project details page. The better and more you will tell us about your idea, the more people will be interested in it! Consider whole spectre of what is needed to deliver your idea to the market, define the open positions, needs in terms of experience and knowledge. Include rough equity share you are willing to distribute. 
+Upon confirmation, you will be redirected to your project details page. The better and more you will tell us about your idea, the more people will be interested in it! Consider whole spectre of what is needed to deliver your idea to the market, define the open positions, needs in terms of experience and knowledge. Include rough equity share you are willing to distribute.
 
 <BrowserWindow url="https://app.foundance.org/dashboard/project-details/[your-project-id]/edit">
 
@@ -40,7 +41,7 @@ You can provide the following inputs:
 
 - Project Name → `(prefilled) your project name`
 - Short Description → `Add a short description for the project`
-- Category → `Select from a dropdown menu` 
+- Category → `Select from a dropdown menu`
 - Blockchain → `Select intended network from a dropdown menu`
 - Description → `Provide a more detailed description of your project.`
 - Social links → `Website, Linkedin, Discord, Twitter, etc.`

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2.4
+sidebar_position: 1
 ---
 
-# Define salaries / vested shares
+# Your Profile
 
 How much equity do you want to hand out to other co-founders and contributors? A basic understanding of market salaries of participants might help to evaluate the token share.
 

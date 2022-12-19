@@ -1,6 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 2.3
 ---
+
 import BrowserWindow from '../../src/components/BrowserWindow';
 import Highlight from '../../src/components/Highlight';
 
@@ -9,6 +10,7 @@ import Highlight from '../../src/components/Highlight';
 Based on all information you have shared and all information you can find on Foundance platform you can start looking for the best fit for your project.
 
 **Cofounders** are joining your project in the following ways:
+
 - adding your self to a role: `Pick the Position`
 - an invitation by project owner: `Invite a friend`
 - sending application for a role to your project: `Meet a Cofounder`
@@ -52,7 +54,6 @@ Your created role is added when you press <Highlight>done</Highlight>.You would 
 ## Assign the created role
 
 Select a role to view its details. you can choose the position for yourself by clicking **Pick the position** button, from the `right side` button group.
-
 
 <BrowserWindow url="https://app.testnet.foundance.org/dashboard/roadmap/founders/[project-id]/[role-id]">
 
