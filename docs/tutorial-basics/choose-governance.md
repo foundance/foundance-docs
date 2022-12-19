@@ -2,9 +2,19 @@
 sidebar_position: 2.8
 ---
 
+import BrowserWindow from '../../src/components/BrowserWindow';
+import Highlight from '../../src/components/Highlight';
+
 # Choose a governance method
 
-This will decide on how your voting system will look like We offer three different voting mechanisms:
+<BrowserWindow url="https://app.foundance.org/project/10001/agreement">
+
+![Governance Model](/img/5-voting.png "Governance Model")
+</BrowserWindow>
+
+The final step before your agreement overview is setting up your governance model. You can read more about each of the proposed models on our [blog]()https://foundance.org/).
+
+This will set how your voting system will look like We offer three different voting mechanisms:
 
 - **Proportional**: 1 share 1 vote
 - **Quadratic**: Your share-ratio squared will be your voting power.
