@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2.6
+sidebar_position: 2.8
 ---
 
 # Choose a governance method
