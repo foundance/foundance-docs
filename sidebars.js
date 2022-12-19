@@ -41,7 +41,7 @@ const sidebars = {
         type: "generated-index",
         title: "Running A Foundance",
         description:
-          "Now you've created an agreement, run the organisation. Here you will find all of the resources required to keep your organisation running smoothly and effectively.",
+          "Now you've created an agreement, run the organization. Here you will find all of the resources required to keep your organization running smoothly and effectively.",
         keywords: ["how-to"],
         image: "/img/foundance.png",
       },

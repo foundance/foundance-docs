@@ -25,7 +25,7 @@ The process starts from **our dapp** by going to **[app.foundance.org](https://a
 
 ### 1. Connect your wallet
 
-This is important, Blockchain is the underlying technology for all of the tools we are providing within the platform, your wallet is where you will hold your tokens and what you will use to authorise governance actions for your Organisations later on.
+This is important, Blockchain is the underlying technology for all of the tools we are providing within the platform, your wallet is where you will hold your tokens and what you will use to authorise governance actions for your Organizations later on.
 
 If you don't have a wallet yet, you can <Highlight url="https://myterablock.medium.com/how-to-create-or-import-a-metamask-wallet-a551fc2f5a6b" color="#FF7900">learn how to create a wallet here</Highlight>.
 
