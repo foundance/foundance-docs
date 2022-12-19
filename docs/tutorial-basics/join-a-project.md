@@ -13,7 +13,7 @@ Clicking on `Projects` from the Top Navigation will always bring you back to the
 
 <BrowserWindow url="https://app.foundance.org/dashboard/">
 
-![Project Dashboard](/img/2-a-complete-profile.png "Project Dashboard")
+![Project Dashboard](/img/3-find-a-project.png "Project Dashboard")
 </BrowserWindow>
 
 All of the Projects listed tell a little bit of their story on the Dashboard, their name, their logo, a very brief description and the area of impact that the Project is targetting. Importantly though you can also see how many other people are following the Project in the `Watchlist` and, if you're excited to work somewhere, you can get an idea of the size of the team in `Co-founders`. If you see one of the Co-founder icons is just an empty shell, that means that there is a role opening on the project!
