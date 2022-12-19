@@ -28,3 +28,5 @@ Additionally to that, you can think of multiplier for your theoretical salary, t
 
 ![Risk Multipliers](/img/5-risk.png "Risk Multipliers")
 </BrowserWindow>
+
+When you are happy, click <Highlight>next</Highlight>

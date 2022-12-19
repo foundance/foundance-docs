@@ -36,3 +36,5 @@ Jane, John, and Samantha need to wait 1 year before any token will be released, 
 :::caution Attention
 Dynamic Equity is at the heart of Foundance, you are of course free to use a traditional vesting model as is offered here ad it will work alongside the Dynamic Equity module - allowing some tokens to be distributed on the schedule configured here, and some to be distributed as part of the weekly distribution model setup on the following screens.
 :::
+
+When you are happy, click <Highlight>next</Highlight>
