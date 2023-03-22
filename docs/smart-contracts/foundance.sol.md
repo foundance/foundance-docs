@@ -17,7 +17,7 @@ After all of the approvals are completed, creator of the project can call the fu
 
 After the creation of your DAO you dont need to interact with Foundance.sol contract and choose the direction of your DAO with your members.
 
-## Parameters you can provide to create your foundance
+## Parameters you can provide to register your foundance
 
 ### foundanceName (string)
 
@@ -32,7 +32,7 @@ The name of your foundance. It should be a unique name which shouldnt be used be
 
 ### votingConfig (struct)
 
-- **votingType (enum)** :
+- **votingType (enum)** : Defines the default voting type for your most proposals. You can choose one of PROPORTIONAL, WEIGHTED, QUADRATIC, OPTIMISTIC and COOPERATIVE.
 - **votingPeriod (uint256)** :
 - **gracePeriod (uint256)** :
 - **disputePeriod (uint256)** :
