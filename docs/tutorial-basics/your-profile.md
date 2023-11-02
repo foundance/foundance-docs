@@ -7,7 +7,7 @@ import Highlight from '../../src/components/Highlight';
 
 # Your Profile
 
-At the end of the [Getting Started](../intro.md) process you may or may not have created a profile, here we run through some of the profile basics and show you what a good profile might look like.
+At the end of the [Getting Started](../started.md) process you may or may not have created a profile, here we run through some of the profile basics and show you what a good profile might look like.
 
 What you can see here is your profile - the more information you will share, the more likely people will want to interact with you, share their ideas, or work on yours. We encourage you to fill out all of the empty spaces here as well as add your profile picture, background picture, and social media links.
 
