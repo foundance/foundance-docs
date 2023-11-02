@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2.8
+sidebar_position: 6
 ---
 
 import BrowserWindow from '../../src/components/BrowserWindow';

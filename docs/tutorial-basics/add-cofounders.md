@@ -1,11 +1,11 @@
 ---
-sidebar_position: 2.3
+sidebar_position: 4
 ---
 
 import BrowserWindow from '../../src/components/BrowserWindow';
 import Highlight from '../../src/components/Highlight';
 
-# Look for a team
+# Building Your Team
 
 Working alone is not as fun as working with co-founders, and research tells us that it is not as successful wither. So let’s find you a cofounder to share the journey with!
 
