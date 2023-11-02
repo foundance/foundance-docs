@@ -1,27 +1,15 @@
 ---
 title: "Getting Started"
-sidebar_position: 1
-slug: /
+sidebar_position: 2
+slug: /started
 ---
 
 import BrowserWindow from '../src/components/BrowserWindow';
 import Highlight from '../src/components/Highlight';
 
-# Introduction
+The best thing is, you have already found us! That means that you are ready to build something new and be part of a new global economy.
 
-We are so happy you are here!
-
-On this page we want to explain you a little more about Foundance and guide you how to interact with platform we have built for you. We want to enable everybody to bootstrap business ideas, find teammates and start a project on Foundance with as little cash money as possible! Accelerating you from Idea to Product with as little friction as possible, and de-risking the future.
-
-But if you wonder, `what` or `who` is Foundance?
-
-Then we hurry to answer - it’s everybody who align with mission to make our world a better place. We want to enable that by creating tools, connecting people and building cool new projects, which will revolutionise the world. Each member of the platform is a part of Foundance - that’s why we are so happy you want to join our community!
-
-## Getting Started
-
-You can start by learning the **Foundance process**.
-Best thing, you have already found us!
-The process starts from **our dapp** by going to **[app.foundance.org](https://app.foundance.org)**. The next steps are:
+The process starts from the **Foundance App** which you can access by navigating to **[app.foundance.org](https://app.foundance.org)** where you will be greeted by some public views of the community.
 
 ### 1. Connect your wallet
 
