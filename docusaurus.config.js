@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Foundance Docs",
   tagline: "Founder's Handbook",
-  url: "https://docs.foundance.com",
+  url: "https://docs.foundance.org",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
