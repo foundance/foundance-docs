@@ -15,5 +15,5 @@ You can navigate around a sample of the commnuity members, projects and events t
 
 <BrowserWindow url="https://app.foundance.org/authentication">
 
-![Connecting Wallet](/img/0-logging-in.png "Onboarding")
+![Authentication](/img/0-logging-in.png "Authentication")
 </BrowserWindow>
