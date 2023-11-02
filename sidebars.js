@@ -19,10 +19,10 @@ const sidebars = {
     "started",
     {
       type: "category",
-      label: "Foundance Process",
+      label: "Foundance Processes",
       link: {
         type: "generated-index",
-        title: "Foundance Process",
+        title: "Foundance Processes",
         description: "Get to know the foundance how-to.",
         keywords: ["how-to"],
         image: "/img/foundance.png",
