@@ -13,7 +13,7 @@ const Highlight = ({children, url=null, color="#FF7900", textColor="#FFFFFF"}) =
     <span
       style={{
         backgroundColor: color,
-        borderRadius: '20px',
+        borderRadius: '5px',
         padding: '5px 10px',
       }}
     >
@@ -26,7 +26,7 @@ const Highlight = ({children, url=null, color="#FF7900", textColor="#FFFFFF"}) =
     <span
       style={{
         backgroundColor: color,
-        borderRadius: '20px',
+        borderRadius: '5px',
         padding: '5px 10px',
         color: textColor,
         cursor: 'pointer',
