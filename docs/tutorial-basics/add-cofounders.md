@@ -7,51 +7,45 @@ import Highlight from '../../src/components/Highlight';
 
 # Building Your Team
 
-Working alone is not as fun as working with co-founders, and research tells us that it is not as successful wither. So let’s find you a cofounder to share the journey with!
+Working alone is not as fun as working with co-founders, and research tells us that it is not as successful either. So let’s find you some cofounders to share the journey with!
 
-Go to the co-founder's tab for your project and create roles that you need within your team. This could be CEO if you want to take over a technical side (as CTO), or CPO if you need strong skills on the product side. Not everyone has to be A C-Suite executive, you can add other roles that you deem critical to creating a winning co-founder team, this will differ depending on what your project is - and we will shortly write some blog posts on what we recommend.
+Go to the Role tab for your project and create roles that you need within your team. This could be CEO if you want to take over a technical side (as CTO), or CPO if you need strong skills on the product side. Not everyone has to be A C-Suite executive, you can add other roles that are critical to creating a winning co-founder team, this will differ depending on what your project is - and we will shortly write some blog posts on what we recommend.
 
-## Create a cofounder role
+## Creating a Role
 
-To have cofounders, you first need to create a role for them. press the `+` sign in the `cofounders` tab to create the first role.
-<BrowserWindow url="https://app.foundance.org/dashboard/roadmap/founders/[project-id]">
+To have cofounders, you first need to create a role for them. Click the <Highlight>Create Role</Highlight> button to start the process
 
-![Add Cofounder Role](/img/4-add-cofounder-role.jpg "Add Cofounder Role")
+<BrowserWindow url="https://app.foundance.org/projects/10000?tab=roles">
+
+![Project Roles](/img/4-view-roles.png "Project Roles")
 </BrowserWindow>
 
-You can specify the role from the dropdown menu and write a description about its responsibilities:
-<BrowserWindow url="https://app.foundance.org/dashboard/roadmap/founders/[project-id]/create-role">
+You will be presented with a form on which you must provide a few pieces of information in order to create the role:
+- Role Category: In which area of the business will the person who fills this role work?
+- Role: What is the primary role they will be fulfilling?
+- Required Skills: What are the main skills that they will need?
+- Role Description: In your own words, what are you after from the person who will fill this role?
+- Compensation: In many cases there will not be compensation, but if you are offering a salary you can put some details here.
 
-![Cofounder Details Form](/img/4-cofounder-details-form.jpg "Cofounder Details Form")
+<BrowserWindow url="https://app.foundance.org/projects/10000?tab=roles">
+
+![Create Role](/img/4-create-role.png "Create Role")
 </BrowserWindow>
 
-Your created role is added when you press <Highlight>done</Highlight>.You would automaticaly redirect to the `cofounders` page where you can view all roles.
+Your new role is added when you press <Highlight>Create Role</Highlight> and you will automaticaly redirect to the `cofounders` page where you can view all roles.
 
-<BrowserWindow url="https://app.foundance.org/dashboard/roadmap/founders/[project-id]">
+## Filling the Role
 
-![Cofounder Added](/img/4-cofounder-role-added.jpg "Cofounder Added")
-</BrowserWindow>
-
-## Assign the created role
-
-**Cofounders** are joining your project in the following ways:
-
+From the roles screen there are several ways that you can fill or get started filling a role. From the action menu next to the role you are able to:
 - adding your self to a role: `Pick the Position`
-- an invitation by project owner: `Invite a friend`
-- sending application for a role to your project: `Meet a Cofounder`
+- invite someone by Email: `Invite with Email`
+- invite an existing Foundance user: `Invite with username`
 
-Select a role to view its details. you can choose the position for yourself by clicking **Pick the position** button, from the `right side` button group.
+Even better is when the community sees that the role has been created and applies for it. In the Roles table you will see a `Candidates` column giving you a high level view of whether there has been interest in your project. Then when you open the role, by clicking the <Highlight>View Role</Highlight> button you are able to see the profiles of those you have invited, any applicants, and suggestions from the Foundance Community who match the profile that we think you are looking for.
 
-<BrowserWindow url="https://app.foundance.org/dashboard/roadmap/founders/[project-id]/[role-id]">
+<BrowserWindow url="https://app.foundance.org/projects/10000?tab=roles">
 
-![Role Assignment](/img/4-project-role.png "Role Assignment")
+![View Applicant](/img/4-view-applicant.png "View Applicant")
 </BrowserWindow>
 
-In this step, you can also **`invite cofounder`** by email for this role. or by sending a request from the list of `Potential co-founders to invite` at the bottom of the page.
-
-<BrowserWindow url="https://app.foundance.org/dashboard/roadmap/founders/[project-id]/[role-id]">
-
-![Send Invitation](/img/4-send-invitation.png "Send Invitation")
-</BrowserWindow>
-
-Once invited you can see them show up at the `invited co-founders` section.
+From here you are able to screen your candidates, organise a chat or meeting, reject (with a reason) or accept an application. And as you can see from the screenshot above, you are also able to edit the role at this point.
