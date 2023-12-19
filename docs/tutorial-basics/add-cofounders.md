@@ -42,14 +42,14 @@ Your created role is added when you press <Highlight>done</Highlight>.You would 
 
 Select a role to view its details. you can choose the position for yourself by clicking **Pick the position** button, from the `right side` button group.
 
-<BrowserWindow url="https://app.testnet.foundance.org/dashboard/roadmap/founders/[project-id]/[role-id]">
+<BrowserWindow url="https://app.foundance.org/dashboard/roadmap/founders/[project-id]/[role-id]">
 
 ![Role Assignment](/img/4-project-role.png "Role Assignment")
 </BrowserWindow>
 
 In this step, you can also **`invite cofounder`** by email for this role. or by sending a request from the list of `Potential co-founders to invite` at the bottom of the page.
 
-<BrowserWindow url="https://app.testnet.foundance.org/dashboard/roadmap/founders/[project-id]/[role-id]">
+<BrowserWindow url="https://app.foundance.org/dashboard/roadmap/founders/[project-id]/[role-id]">
 
 ![Send Invitation](/img/4-send-invitation.png "Send Invitation")
 </BrowserWindow>
