@@ -21,7 +21,7 @@ The foundation of our platform is to ensure all of the people involved in the pr
 
 :::caution Attention 
 Remember that all of the steps have to be discussed in detail with all of the cofounders, you must agree on the terms before you will put them on-chain!
-
+:::
 The first thing to do is to go to your project page and check the agreement tab. 
 
 <BrowserWindow>
@@ -29,17 +29,18 @@ The first thing to do is to go to your project page and check the agreement tab.
 ![Create an Agreement](/img/5-create-agreement-step-1.png "Create and Agreement")
 </BrowserWindow>
 
- [!IMPORTANT] Prerequisites to start an agreement
-
- 1. your project has at least two people occupying co-founder roles
- 2. each co-founder has a wallet associated to their account
+:::info
+Prerequisites to start an agreement
+ - your project has at least two people occupying co-founder roles
+ - each co-founder has a wallet associated to their account 
+:::
 
 **Agreement Types**
 
 Depending on your experience as a founder and your business model, you may choose bewteen three agreement types:
-- basic: recommended for first time founders and people new to web3
-- intermediate: recommended to those who have some experience with traditional equity allocation models
-- advanced: recommended to seasoned founders, who want to take into account each member's contribution.
+- **basic**: recommended for first time founders and people new to web3
+- **intermediate**: recommended to those who have some experience with traditional equity allocation models
+- **advanced**: recommended to seasoned founders, who want to take into account each member's contribution.
 
 <BrowserWindow>
 
@@ -80,8 +81,9 @@ You start off with 1 million tokens.
 
 By default, each co-founder will have an equal amount of tokens. You can change the amount of tokens each co-founder will get. If the total number is lower or more than 1 million, the total number of tokens will get updated.
 
-[!IMPORTANT] 
+:::info 
 If you want the total amount of tokens to be fixed, check the box below the field
+:::
 
 When you are ready, click <Highlight>Continue</Highlight>.
 
@@ -104,9 +106,10 @@ Once you register the agreement, all the other co-founders will be notified to s
 
 Click on <Highlight>Register</Highlight> to finalize the agreement.
 
-[!IMPORTANT]
+:::info
 
 This is an operation requiring a connected wallet and MATIC. In order to get MATIC in your wallet, you can use [this faucet](https://www.alchemy.com/faucets/polygon-mumbai).
+:::
 
 ## Intermediate Agreement
 
@@ -203,7 +206,9 @@ Once you register the agreement, all the other co-founders will be notified to s
 Click on <Highlight>Register</Highlight> to finalize the agreement.
 
 
-[!IMPORTANT] This is an operation requiring a connected wallet and MATIC. In order to get MATIC in your wallet, you can use [this faucet](https://www.alchemy.com/faucets/polygon-mumbai).
+:::info
+This is an operation requiring a connected wallet and MATIC. In order to get MATIC in your wallet, you can use [this faucet](https://www.alchemy.com/faucets/polygon-mumbai).
+:::
 
 ## Advanced Agreement
 
@@ -236,7 +241,9 @@ By default, this option is disabled. If enabled, you will be able to setup of ea
 - the default number of days each person will work per week
 - the maximum number of days each person can work per week
 
-[!IMPORTANT] Setting up a dynamic equity model means that every week, each co-founder will be asked to update their contribution. If a co-founder's contribution exceeds the default number of days (let's say Mary worked 5 days instead of 3) a vote will be opened for the other co-founders to agree or disagree with this update. 
+:::info
+Setting up a dynamic equity model means that every week, each co-founder will be asked to update their contribution. If a co-founder's contribution exceeds the default number of days (let's say Mary worked 5 days instead of 3) a vote will be opened for the other co-founders to agree or disagree with this update. 
+:::
 
 Below the contribution table you will see a chart with expected token allocation over time. If you have also set up fixed equity allocation with or without vesting, this will also be included. 
 
@@ -290,7 +297,9 @@ Once you register the agreement, all the other co-founders will be notified to s
 Click on <Highlight>Register</Highlight> to finalize the agreement.
 
 
-[!IMPORTANT] This is an operation requiring a connected wallet and MATIC. In order to get MATIC in your wallet, you can use [this faucet](https://www.alchemy.com/faucets/polygon-mumbai).
+:::info 
+This is an operation requiring a connected wallet and MATIC. In order to get MATIC in your wallet, you can use [this faucet](https://www.alchemy.com/faucets/polygon-mumbai).
+:::
 
 
 

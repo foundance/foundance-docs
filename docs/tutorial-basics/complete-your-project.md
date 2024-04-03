@@ -66,6 +66,6 @@ Simply put, a business plan is how you document your venture's goals and how you
 
 We will discuss in a blog post the best structure of a Business Plan.
 
-::: info
+:::info
 If you don't know where to start, you can use our Generate with AI tool to draft the first version of your Business Plan
-
+:::

@@ -21,8 +21,12 @@ All the listed Projects tell a little bit of their story on such as their name, 
 If something grabs your attention, click on the card. This way, you can explore:
 -  all the details, including documentation: `Project Details` tab
 - the current team: `Team` tab
--  open roles `Roles`
--  the co-founder agreement `Agreement` tab 
+-  open roles: `Roles`
+-  the co-founder agreement: `Agreement` tab 
+
+:::info
+In order to see freelancer open roles and the status of the co-founder agreement, you need to either login with a wallet or connect one to your account
+:::
 
 
 <BrowserWindow url="https://app.foundance.org/projects/10297">
@@ -52,3 +56,10 @@ You may see projects which are exciting, but have no open roles. You can always 
 If you prefer to see all of the projects that have roles available you can navigate to the [Open Roles](https://app.foundance.org/roles) screen and filter the available roles by a particular skill or role in order to help you narrow down the projects that might have something available for you.
 
 If you are enrolled to an event and you're looking for roles whithin the event projects, simply filter them by event.
+
+# My Opportunities
+Sometimes, you apply to open roles or take a leap of faith and ask to join a project. Sometimes, other people find you and ask you to join their team.
+
+All these opportunities are found in your profile. You can approve/reject invitations or retract your open applications.
+
+![View Opportunities](/img/3-myopportunities.png "View Opportunities")
