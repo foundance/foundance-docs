@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Projects
 
-Projects and the teams that run them are the lifeblood of Foundance. Projects are your opporunity to take that great idea you have and find people to help you build it _or_ Projects are your opportunity to be inspired by what other people are thinking about, and get your self involved.
+Projects and the teams that run them are the lifeblood of Foundance. Projects are your opportunity to take that great idea you have and find people to help you build it _or_ Projects are your opportunity to be inspired by what other people are thinking about, and get yourself involved.
 
-You can start by browsing Projects that already exist on Foundance by reading - [Joining a Project](join-a-project.md).
+You can start by browsing Projects that already exist on Foundance: [Joining a Project](join-a-project.md).
 
 Or if you have an idea trying to get out of your head and into the world, jump straight ahead to [Creating a Project](create-your-project.md).
 

@@ -7,33 +7,45 @@ import Highlight from '../../src/components/Highlight';
 
 # Your Profile
 
-At the end of the [Getting Started](../started.md) process you may or may not have created a profile, here we run through some of the profile basics and show you what a good profile might look like.
+Your Foundance profile is how potential co-founders, investors, freelancers and other fellow start-up enthusiasts will find you. A good and complete profile is your business card and ticket to success. 
 
-What you can see here is your profile - the more information you will share, the more likely people will want to interact with you, share their ideas, or work on yours. We encourage you to fill out all of the empty spaces here as well as add your profile picture, background picture, and social media links.
+Here we run through some of the profile basics and show you what a good profile might look like.
 
-You can always return and update your profile by clicking on your wallet address in the top right corner of the screen and selecting `go to profile`.
+What you can see here is your profile - the more information you will share, the more likely people will want to interact with you, share their ideas, or work on yours. We encourage you to fill out as much of the information as possible, including a profile picture, your social media profiles, your website/portfolio and last, but not least, your Journey so far.
 
-<BrowserWindow url="https://app.foundance.org/dashboard/account/profile/edit">
+You can always view and update your profile by clicking on your avatar, bottom-left corner. 
 
-![Complete Profile](/img/2-complete-profile-again.png "Complete Profile")
+<BrowserWindow url="https://app.foundance.org/account/settings">
+
+![Complete Profile](/img/2-view-your profile.png "Complete Profile")
+
 </BrowserWindow>
 
-A complete profile will look something like the following.
+## Profile Completeness
+Coming soon!
 
-<BrowserWindow url="https://app.foundance.org/dashboard/account/profile">
+### Your support for the Foundance community
 
-![Complete Profile](/img/2-a-complete-profile.png "Complete Profile")
-</BrowserWindow>
+Our aim is to build a strong start-up community. Hence, one of the important pieces of the puzzle is **how you want to support the Foundance community**. While you can select more than one of the options listed below, we strongly advise you to pick just the ones that match your current intentions. No worries, you can always edit this section later. 
 
-One of the things that you should notice is your ability to select what Type of user you will be experiencing Foundance as (you are not limited to only one):
+1. **Founder** - You want to create projects
+2. **Co-Founder** - You want to join someone's project
+3. **Freelancer** - You want to work on discrete pieces of work across many projects
+4. **Advisor** - You want to give a little time and a lot of experience to projects
+5. **Hacker** - You want to help buiding hackathon projects
 
-1. Founder - You want to create and join projects
-2. Advisor - You want to give a little time and a lot of experience to projects, sharing your expertise
-3. Freelancer - You want to work on discrete pieces of work across many projects
+::: info
+Depending on this selection, your Foundance experience will be customized. For example, people who want to support he community as founders or co-founders will have a slightly different experience from people who only want to act as freelancers. 
 
-If you are already involved in some projects on regular basis - you will be able to see your portfolio of tokens (equity) within those projects - but more about it in the next sections.
+### Your Journey
+**Every person has a story. What is yours?**
 
-<BrowserWindow url="https://app.foundance.org/dashboard/account/profile">
+Let the other community members learn how you got here. It might be a boring job, a prize you won while a student, a successful start-up started in your parent's garage. 
 
-![Complete Profile](/img/2-a-complete-profile-projects.png "Complete Profile")
-</BrowserWindow>
+We created this timeline for you to showcase your journey. 
+Click on `Add Experience` and select the type of experience you want to add. You can select anything from the good-old professional and educational, to exits, accelerators, previous funding and hackathon prizes. If none suits, you can select the "other" option. 
+
+Each experience item will be mapped on the timeline for the others to see your journey so far. 
+
+
+![My Journey](/img/MyJourney.png "My Journey")

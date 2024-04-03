@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 2
 ---
 
 import BrowserWindow from '../../src/components/BrowserWindow';
@@ -9,27 +9,28 @@ import Highlight from '../../src/components/Highlight';
 
 You are almost set!
 
-Now you can check all of the parts of the agreement and if they are proper you can click done button.
+Now that you have registered your agreement, you can take a little rest. 
 
-<BrowserWindow url="https://app.foundance.org/project/10001/agreement">
+Your Co-founders will receive an email notification (but hopefully they are all there excitedly waiting with you!) to let them know to come and read thorugh the agreement and sign their commitment to it.
 
-![Agreement](/img/5-create-agreement-on-chain.png "Agreement")
+[!IMPORTANT] This is an operation requiring a connected wallet and MATIC for each co-founder. In order to get MATIC in their wallets, they can use [this faucet](https://www.alchemy.com/faucets/polygon-mumbai).
+
+You can always see the status of the signatures on the Agreement tab. 
+
+<BrowserWindow>
+
+![Agreement](/img/5-agreement-status.png "Agreement")
 </BrowserWindow>
 
-This screen gives you an overview of everything you have just configured for your team, and when you click <Highlight>done</Highlight> you will be asked to sign the transaction commiting this agreement _proposal_ to the Blockchain.
+# Enact the Agreement
 
-All of your Co-founders will receive an email notification (but hopefully they are all there excitedly waiting with you!) to let them know to come and read thorugh the agreement and sign their commitment to it.
+Once all of the Co-founders have signed the agreement you are able to enact it and create the Organization by clicking <Highlight>Enact</Highlight> button on the same screen.
 
-Once all of the Co-founders have signed the agreement you are able to create the Organization by clicking <Highlight>place agreement</Highlight> on the same screen. You can track signatories in the panel to the right of the screen.
+# Congratulations!
 
-<BrowserWindow url="https://app.foundance.org/project/10001/agreement">
+Your Organization is now alive!
 
-![Agreement](/img/5-create-agreement-on-chain-ready.png "Agreement")
-</BrowserWindow>
-
-# Congradulations!
-
-Now you will be able to mint your project tokens on a weekly basis from the maximum supply you have chosen. Those tokens will allow you to buy services in the Foundance ecosystem. You agree that the minted tokens for 3rd party contributors will be of value in the future if the project at a later stage flourishes. As a founder or contributor you have to agree that you will not steal IP rights or do any other harmful action against the project or its contributors, including transfer the project to another entity. Due to safety reasons Foundance will ask you to sign a legal agreement for this.
+Now you will be able to mint your project tokens as per the agreement setup. If you also have a pool, those tokens will allow you to buy services in the Foundance ecosystem. You agree that the minted tokens for 3rd party contributors will be of value in the future if the project at a later stage flourishes. As a founder or contributor you have to agree that you will not steal IP rights or do any other harmful action against the project or its contributors, including transfer the project to another entity. Due to safety reasons Foundance will ask you to sign a legal agreement for this.
 
 Within the first three months we won’t be available to support you with extra funding. This is the time the bootstrapping is the most important! With your brilliant idea and token which represents ownership in your project, Foundance believe that you will be able to finish all steps mentioned below, which will lead you to Foundance investment board - we're keeping our fingers crossed!
 

@@ -31,9 +31,9 @@ You can browse the events by clicking on the Hero banner or on the individual ti
 ![View Event](/img/6-view-event.png "View Event")
 </BrowserWindow>
 
-On this screen you will get an overview of the event as well as details on the topics covered, the prizes offered, the schedule, who the team are - including judges & mentors, and the rules.
+On this screen you will get an overview of the event as well as details on the topics covered, the prizes offered, the schedule, who the team is - including judges & mentors, and the rules.
 
-Two of the most exciting tabs though are the Particpants & Projects - here you can see the other cofounders taht have signed up to the event and any projects that have been created as part of it.
+Two of the most exciting tabs though are the Particpants & Projects - here you can see the other cofounders that have signed up to the event and any projects that have been created as part of it.
 
 <BrowserWindow url="https://app.foundance.org/events/2024">
 
@@ -62,4 +62,37 @@ If the event does have some enrollment requirements you will be presented with a
 
 :::caution Attention
 Once you have joined an event, you are listed on the participants, if you want to be seen by as many people as possible and find the best team for you, make sure that you have a complete profile
+:::
+
+# Enrolling a Project
+
+If you have your own project idea, the next step is to create a project and enroll it to the event. 
+
+To do this, go to the **Projects** tab and click on <highlight>Create Project</highlight>. 
+
+<BrowserWindow>
+
+![Create Event Project](/img/6-create-event-project.png "Create Event Project")
+</BrowserWindow>
+
+Provide all the required information. Since you have already joined an event, when creating a project you will be prompted to specify if it is for the purpose of this event. 
+
+:::caution Attention
+If you have already created your project on Foundance and can't find it in the list of event projects, click on <highlight>Import</highlight> from the Project tab. 
+
+:::
+
+## Submitting Project for a Bounty
+
+When joining an event, it is important to specify which bounty is of interest to you. Some events will allow submitting the same project to multiple bounties, while some will allow only one. 
+
+Open your Project and on the **Project Details** tab you will find an **Event Enrollment** section. Click on it and select the desired bounty. 
+
+<BrowserWindow>
+
+![Select Bounty](/img/6-select-bounty.png "Select Bounty")
+</BrowserWindow>
+
+:::caution Attention
+If you can't find the event there, make sure the project is enrolled to the event of interest.
 :::
