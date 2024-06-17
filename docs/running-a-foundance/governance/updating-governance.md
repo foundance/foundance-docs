@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 ---
 
 import BrowserWindow from '../../../src/components/BrowserWindow';
 import Highlight from '../../../src/components/Highlight';
 
-# Adding Members to the DAO
+# Updating governance
 
 Soon!
