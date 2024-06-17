@@ -1,10 +1,10 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 ---
 
 import BrowserWindow from '../../src/components/BrowserWindow';
 import Highlight from '../../src/components/Highlight';
 
-# Adding to your Team
+# Adding Members to the DAO
 
 Soon!
