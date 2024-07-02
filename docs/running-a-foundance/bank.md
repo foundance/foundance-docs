@@ -81,7 +81,7 @@ Soon!
 
 # How can I use the funds in my bank?
 
- ## Withraw funds
+ ## Witdhraw funds
 
 You can always withdraw funds, as long as you have the team's support.
 

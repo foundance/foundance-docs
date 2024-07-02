@@ -35,8 +35,9 @@ You will be presented with a form on which you must provide a few pieces of info
 
 Your new role is added when you press <Highlight>Create Role</Highlight> and you will automaticaly redirect to the `Roles` page where you can view all open roles.
 
- [!NOTE]  
+:::info 
   The same form also allows you to create freelancer roles. These are restricted to projects which already have an agreement in place. There are no restrictions with creating co-founder roles. 
+:::
 
 ## Filling the Co-founder Role
 
@@ -56,8 +57,9 @@ If your project is enrolled to an event, the list of matching profiles we propos
 
 Once you get some candidates, don't let them wait. Chat with them, see if they are match and approve or reject their candidacy. 
 
-[!IMPORTANT]  
+:::info
 Once your co-founding team is in place, you can start the discussions around the [agreement](https://docs.foundance.org/category/creating-an-agreement).
+:::
 
 # Expanding your team
 
@@ -65,8 +67,9 @@ There are situations, especially in start-ups, when your co-founding team might 
  
 ## Prerequisites
 
-[!IMPORTANT]  
+:::info
 On Foundance, freelancers are compensated for their services in tokens (i.e., project tokens or any other token you have in your bank).
+:::
 
 1. This means that in order to bring freelancers onboard, you will first need to enact a [co-founder agreement](https://docs.foundance.org/category/creating-an-agreement). 
 
@@ -86,8 +89,9 @@ If the prerequisites are met, follow the steps below:
 4. Specify the broader "Role Category", the specific "Role" and a "Description"
 5. Specify compensation details; At the moment, we only support project tokens from a predefined pool.
 
-[!NOTE]  
+:::info
 If some conditions are not met, such as no agreement or not enough tokens in the bank, you will be prompted with an informative message.
+:::
 
 ![Open Freelancer Role](/img/4-create-freelancer-role.png "Open Freelancer Role")
 

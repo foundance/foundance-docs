@@ -21,8 +21,9 @@ This is how a complete profile looks like:
 
 ![Complete Profile](/img/2-view-yourprofile.png "Complete Profile")
 
-[!IMPORTANT]
- Profiles with a completion rate lower than 40% won't be displayed on the Community page, for the others to see.
+:::warning
+ Profiles with a completion rate **lower than 40%** won't be displayed on the **Community page**, for the others to see.
+:::
 
 ## Your support for the Foundance community
 

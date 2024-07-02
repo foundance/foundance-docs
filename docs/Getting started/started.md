@@ -1,11 +1,9 @@
 ---
-title: "Getting Started"
-sidebar_position: 2
-slug: /started
+sidebar_position: 1
 ---
 
-import BrowserWindow from '../src/components/BrowserWindow';
-import Highlight from '../src/components/Highlight';
+import BrowserWindow from '../../src/components/BrowserWindow';
+import Highlight from '../../src/components/Highlight';
 
 The best thing is, you have already found us! That means that you are ready to build something new and be part of a new global economy.
 

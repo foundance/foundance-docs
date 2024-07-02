@@ -29,7 +29,7 @@ Some of the benefits of using Foundance are:
 
 In the following pages we will explain more about Foundance and guide you how to interact with platform. 
 
-[!TIP]
+:::info
 If you don't find the information you're looking for, you can always drop us a message on [Discord](https://discord.com/channels/983317906265878558/1250463340564840600).
-
+:::
 We are here to enable everybody to bootstrap their business, to bring their ideas to life with as little friction as possible, and by de-risking your future.
