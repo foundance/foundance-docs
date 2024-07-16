@@ -1,9 +1,9 @@
 ---
-sidebar_position: 0
+sidebar_position: 3
 ---
 
-import BrowserWindow from '../../src/components/BrowserWindow';
-import Highlight from '../../src/components/Highlight';
+import BrowserWindow from '../src/components/BrowserWindow';
+import Highlight from '../src/components/Highlight';
 
 # Onboarding
 
