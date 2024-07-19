@@ -5,6 +5,6 @@ sidebar_position: 8
 import BrowserWindow from '../../../src/components/BrowserWindow';
 import Highlight from '../../../src/components/Highlight';
 
-# Step 7: Fundraising
+# Step 8: Fundraising
 
 Coming Soon
