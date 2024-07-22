@@ -13,4 +13,4 @@ Hence, we are here to support you on your journey.
 
 However, until you proceed with your **next steps**, please make sure your [Foundance profile](../your-profile.md) is complete. Sharing your skills and previous experiences makes you **more visible**, helps **build trust** and makes it easier to **connect** with others in the community. 
 
-You also advise you read the whole documentation around events [here](../events/).
+You also advise you read the whole documentation around events [here](../events/join-event).

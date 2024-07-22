@@ -47,4 +47,4 @@ All co-founders need to **sign** the agreement.
 
 ## Step 7.5 The founder enacts the agreement
 
-The project creator is able to **Enact** the agreement. This is when it all becomes official. All changes and decisions required from now on will require a [vote](../../running-a-foundance/governance/). 
+The project creator is able to **Enact** the agreement. This is when it all becomes official. All changes and decisions required from now on will require a [vote](../../running-a-foundance/governance/general-governance). 
