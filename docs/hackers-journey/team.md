@@ -5,17 +5,18 @@ sidebar_position: 3
 import BrowserWindow from '../../src/components/BrowserWindow';
 import Highlight from '../../src/components/Highlight';
 
-# Step 2: Find or Build a Team
+# Steps 2-4 Find a team and build something great! 
+## Step 2: Find or Build a Team
 
 Usually, in a hackathon, there are two types of participants: those who already know what they want to build and those who want to help others build.
 
 Depending on the situation, your **next steps** on Foundance are a bit different. 
 
-## I want to help build someone else's idea
+### I want to help build someone else's idea
 
 Since you don't yet have a team, it is essential you focus your efforts into finding the right idea and the right team. 
 
-### Browse enrolled projects
+#### Browse enrolled projects
 
 The easiest way to identify projects aligned with your interests is by browsing projects by *category*. To do this, open the **Event Page**, select the **Projects tab** and chose the categories of interest. 
 
@@ -27,7 +28,7 @@ Additionally, you can apply a filter for those who are actively seeking members.
 If the projects which interest you don't have open roles, you can always [request to join](https://docs.foundance.org/tutorial-basics/join-a-project#no-role-listed) them or start chatting with the founder.
 :::
 
-### Identify open roles
+#### Identify open roles
 
 As an alternative to filtering for projects with open roles on the Event page, you can visit the [Open Roles] page and filter roles by **Event**, **Role** and/or **Skill**.
 
@@ -35,12 +36,24 @@ As an alternative to filtering for projects with open roles on the Event page, y
 
 Once you identify a desired open role, follow the steps of [joining a project](https://docs.foundance.org/tutorial-basics/join-a-project).
 
-## I have my own idea
+### I have my own idea
 
-### My project is already on Foundance
+#### My project is already on Foundance
 
 That's great! All you have to do is go to the Event Projects and click on <Highlight>Import</Highlight>. 
 
-### I don't have my project on Foundance
+#### I don't have my project on Foundance
 
 Dont fret, it's not complicated. Follow the steps here to [create the project](../events/join-event.md) and directly into the event.
+
+## Step 3: Select a bounty
+
+Most hackathons have multiple tracks and bounties. Select one or more you want to be considered for. 
+
+You can find more information on bounties [here](https://docs.foundance.org/events/join-event#submitting-project-for-a-bounty). 
+
+## Step 4: Submit your project
+
+At the end of the event, you will need to submit your project, so that the organizers will include it in the judging process.
+
+All you need to do it press the big orange <Highlight>Submit</Highlight> button on the event page.
