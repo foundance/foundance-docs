@@ -55,16 +55,18 @@ If you have used your wallet to authenticate and you are not already connected t
 ### 2. Account Setup
 
 We don't want to make the onboarding cumbersome for you. We're only asking:
-- How you intend to support the Foundance community; This is also, the reason you are here: are you a founder, a co-founder, an adviser, a freelancer or a hacker? 
+
+- How you intend to support the Foundance community; This is also, the reason you are here: are you a founder, a co-founder, an adviser, a freelancer or a hacker?
 - Your username on the platform
 - Referral code; Did a friend or acquaintance invite you? Use their promo code and they'll get a reward. Once you signup, you will have your own code.
 - The email address we can use to communicate with you. Don't worry, you can always unsubscribe from any email category.
 
-![Onboarding](0-onboarding-details.png "Onboarding Details")
+![Onboarding](/img/0-onboarding-details.png "Onboarding Details")
 
 :::info
 If you don't get these right from the start, don't worry! You can always change this info.
 :::
 
 ### 3. Welcome aboard!
-The first thing you will see is the **Foundance Dashboard**. Here you will find the **latest updates** from the community and the **recommended next steps** depending on your role. Moreover, starting from the Dashboard, you can navigate and explore the **[Community](https://app.foundance.org/community)**, the **[Projects](https://app.foundance.org/projects)**, **[Open Roles](https://app.foundance.org/roles)**, our **[Forum](https://app.foundance.org/forum)** and much more. 
+
+The first thing you will see is the **Foundance Dashboard**. Here you will find the **latest updates** from the community and the **recommended next steps** depending on your role. Moreover, starting from the Dashboard, you can navigate and explore the **[Community](https://app.foundance.org/community)**, the **[Projects](https://app.foundance.org/projects)**, **[Open Roles](https://app.foundance.org/roles)**, our **[Forum](https://app.foundance.org/forum)** and much more.
