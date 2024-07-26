@@ -5,9 +5,9 @@ sidebar_position: 2
 import BrowserWindow from '../../../src/components/BrowserWindow';
 import Highlight from '../../../src/components/Highlight';
 
-# Step 2: Refine your idea
+# Step 1: Refine your idea
 
-## Step 2.1 A detailed description of your project
+## Step 1.1 A detailed description of your project
 
 With your visual identity in place, the next step is to provide **a detailed description** of your project.
 
@@ -24,7 +24,7 @@ Don’t forget to include your **plans for the future** and how you intend to ac
 
 A well-written description will help potential supporters and collaborators understand your vision and get excited about being a part of your journey.
 
-## Step 2.2 Create a visual identity for your project
+## Step 1.2 Create a visual identity for your project
 
 A compelling visual identity helps your idea stand out and makes it easier for people to remember and connect with your project.
 

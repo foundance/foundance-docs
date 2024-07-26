@@ -5,7 +5,7 @@ sidebar_position: 7
 import BrowserWindow from '../../../src/components/BrowserWindow';
 import Highlight from '../../../src/components/Highlight';
 
-# Step 7: Your Cofounder Agreement
+# Step 6: Your Cofounder Agreement
 
 Take your team and your project to the **next level** and **sign a co-founder’s agreement**. 
 

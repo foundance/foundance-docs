@@ -5,7 +5,7 @@ sidebar_position: 6
 import BrowserWindow from '../../../src/components/BrowserWindow';
 import Highlight from '../../../src/components/Highlight';
 
-# Step 6: The Business Plan
+# Step 5: The Business Plan
 
 While building is sometimes the most fun part, having a good plan which you revise from time to time will increase your chances for success. 
 

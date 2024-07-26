@@ -52,14 +52,19 @@ You will not be paying any gas fees to sign and authenticate your wallet.
 If you have used your wallet to authenticate and you are not already connected to the Polygon network you will notice that there is an overlay asking you to switch network (this will also add Polygon to your wallet if it is not already present). This is not mandatory until you come to the steps with the agreement, but you will have a better experience if you make the overlay disappear!
 :::
 
-### 2. You are in
+### 2. Account Setup
 
-Right now, that is it, you are logged into the platform and you can start your Foundance journey. It's impotant to note though, that right now your profile is boring and no one is going to be able to find you or your projects! 
+We don't want to make the onboarding cumbersome for you. We're only asking:
+- How you intend to support the Foundance community; This is also, the reason you are here: are you a founder, a co-founder, an adviser, a freelancer or a hacker? 
+- Your username on the platform
+- Referral code; Did a friend or acquaintance invite you? Use their promo code and they'll get a reward. Once you signup, you will have your own code.
+- The email address we can use to communicate with you. Don't worry, you can always unsubscribe from any email category.
 
-<BrowserWindow url="https://app.foundance.org/projects">
+![Onboarding](0-onboarding-details.png "Onboarding Details")
 
-![Project Dashbard](/img/1-logged-in.png "Project Dashboard")
-</BrowserWindow>
+:::info
+If you don't get these right from the start, don't worry! You can always change this info.
+:::
 
-## Event Onboarding
-Coming soon
+### 3. Welcome aboard!
+The first thing you will see is the **Foundance Dashboard**. Here you will find the **latest updates** from the community and the **recommended next steps** depending on your role. Moreover, starting from the Dashboard, you can navigate and explore the **[Community](https://app.foundance.org/community)**, the **[Projects](https://app.foundance.org/projects)**, **[Open Roles](https://app.foundance.org/roles)**, our **[Forum](https://app.foundance.org/forum)** and much more. 
