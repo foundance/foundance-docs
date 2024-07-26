@@ -5,7 +5,7 @@ sidebar_position: 3
 import BrowserWindow from '../../../src/components/BrowserWindow';
 import Highlight from '../../../src/components/Highlight';
 
-# Step 4: Promote Your Venture
+# Step 3: Promote Your Venture
 
 A venture is not just about having a great idea and a team to build it. It's also about creating a community around your idea, where feedback, collaboration, and support come together.
 
@@ -20,5 +20,8 @@ A venture is not just about having a great idea and a team to build it. It's als
 1. **Start-up platforms**: If you do that, don't forget to mention us.
 2. **Social Media**: Foundance projects, profiles and even forum posts can easily be shared on LinkedIn and Twitter. Depending on your audience, it might be helpful to share on other platforms, as well.
 3. dedicated **communities** on Discord, Reddit, substack, Medium etc.
-4. **User research platforms**
-5. **Virtual** or **in person** events
+4. **Start-up platforms**, such as [Product Hunt](https://www.producthunt.com/), [Crunchbase](https://www.crunchbase.com/) or [Uneed](https://www.uneed.best/); If you do that, don't forget to give us a shoutout.
+5. **Social Media**: Foundance projects, user profiles, open roles and even forum posts can easily be shared on LinkedIn and Twitter. Depending on your audience, it might be helpful to share on other platforms, as well.
+6. dedicated **communities** on Discord, Reddit, substack, Medium etc.
+7. **User research platforms**
+8. **Virtual** or **in person** events

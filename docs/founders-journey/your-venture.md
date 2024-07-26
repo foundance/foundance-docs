@@ -7,4 +7,6 @@ import Highlight from '../../src/components/Highlight';
 
 # Managing the venture
 
-Coming Soon
+Once you have an enacted agreement, you can easily profit from in-house [governance](../running-a-foundance/governance) and your project's [treasury](../running-a-foundance/bank.md).
+
+
