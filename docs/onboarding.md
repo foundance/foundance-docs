@@ -52,31 +52,19 @@ You will not be paying any gas fees to sign and authenticate your wallet.
 If you have used your wallet to authenticate and you are not already connected to the Polygon network you will notice that there is an overlay asking you to switch network (this will also add Polygon to your wallet if it is not already present). This is not mandatory until you come to the steps with the agreement, but you will have a better experience if you make the overlay disappear!
 :::
 
-### 2. First steps
+### 2. Account Setup
 
-We don't want to make the onboarding cumbersome for you. We're only asking about:
-- the way you intend to support the Foundance community; This is also, the reason you are here: are you a founder, a co-founder, an adviser, a freelancer or a hacker? 
-- your username on the platform
-- referral code; Did a friend or acquaintance invite you? Use their promo code and they'll get a reward. Once you signup, you will have your own code.
-- the email address we can use to communicate with you. Don't worry, you can always unsubscribe from any email category.
+We don't want to make the onboarding cumbersome for you. We're only asking:
+- How you intend to support the Foundance community; This is also, the reason you are here: are you a founder, a co-founder, an adviser, a freelancer or a hacker? 
+- Your username on the platform
+- Referral code; Did a friend or acquaintance invite you? Use their promo code and they'll get a reward. Once you signup, you will have your own code.
+- The email address we can use to communicate with you. Don't worry, you can always unsubscribe from any email category.
 
-![onboardin details](/img/0-onboarding-details.png "onboarding details")
+![Onboarding](0-onboarding-details.png "Onboarding Details")
 
 :::info
 If you don't get these right from the start, don't worry! You can always change this info.
 :::
 
-### 3. You are in
-
-That's it! You are logged into the platform and you can start your Foundance journey. The page you've just landed on is your **Foundance Dashboard**. Here, you can check out the **latest activity** of our community, view **recommended next steps** or **navigate** to other spaces.
-
-<BrowserWindow url="https://app.foundance.org/">
-
-![Dashbard](/img/0-dashboard.png "Dashboard")
-</BrowserWindow>
-
-### What now?
-
-As you can see on the very top, your profile is quite boring and it will need some attention before being public. You can read more on profiles, [here](/docs/your-profile.md).
-
-Depending on how you intend to support the community, you will be instructed with some 'Next Steps'. For example, if you are a founder, the first thing you need to do (after completeting your profile) is to [create a venture](/docs/tutorial-basics/create-your-project.md) on Foundance. 
+### 3. Welcome aboard!
+The first thing you will see is the **Foundance Dashboard**. Here you will find the **latest updates** from the community and the **recommended next steps** depending on your role. Moreover, starting from the Dashboard, you can navigate and explore the **[Community](https://app.foundance.org/community)**, the **[Projects](https://app.foundance.org/projects)**, **[Open Roles](https://app.foundance.org/roles)**, our **[Forum](https://app.foundance.org/forum)** and much more. 

@@ -5,7 +5,7 @@ sidebar_position: 8
 import BrowserWindow from '../../../src/components/BrowserWindow';
 import Highlight from '../../../src/components/Highlight';
 
-# Step 9: Discover Opportunities
+# Step 8: Discover Opportunities
 
 Building a venture from scratch requires a lot of time and resources (e.g., computers, subscriptions, office space, etc), which in turn, translates into money. Either you want to bootstrap or you’re looking for investment to accelerate your growth, keep an eye open for opportunities.
 

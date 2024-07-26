@@ -5,7 +5,7 @@ sidebar_position: 2
 import BrowserWindow from '../../../src/components/BrowserWindow';
 import Highlight from '../../../src/components/Highlight';
 
-# Step 3: Presentation Video
+# Step 2: Presentation Video
 
 These days, people often prefer consuming **video content** over written material because it’s more engaging and easier to understand.
 
