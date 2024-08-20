@@ -60,7 +60,7 @@ We don't want to make the onboarding cumbersome for you. We're only asking:
 - Referral code; Did a friend or acquaintance invite you? Use their promo code and they'll get a reward. Once you signup, you will have your own code.
 - The email address we can use to communicate with you. Don't worry, you can always unsubscribe from any email category.
 
-![Onboarding](0-onboarding-details.png "Onboarding Details")
+![Onboarding](/img/0-onboarding-details.png "Onboarding Details")
 
 :::info
 If you don't get these right from the start, don't worry! You can always change this info.
