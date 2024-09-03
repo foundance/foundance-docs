@@ -31,8 +31,8 @@ At this point in time only the Creator or an Admin of a Project can update it
 The first thing that anyone sees in our listings are your Project Name & Logo and if they click through to look deeper, your banner. You can upload new images at any time by clicking on the `+` icon. if you don't yet have a logo, you can generate one with our AI tool. 
 
 :::info
-For the banner we recommend image dimensions of 1200x200<br/>
-For the logo we recommend image dimensions of 512x512
+For the banner we recommend images with the 4:1 ratio and a dimension of at least 1064px x 266px.
+For the logo,  we recommend image dimensions of 512x512
 :::
 
 ## Project Details & Description
@@ -42,7 +42,8 @@ By clicking the `Edit Section` which sits near your Project name you can enter s
 - Short Description → `The short description you entered when creating your Project. This appears on the search/browse screens`
 - Category → `Select from a dropdown menu`
 - Blockchain → `Select intended network from a dropdown menu`
-- Social links → `Website, Linkedin, Discord, Telegram, Github, Twitter`
+- Social links → `Linkedin, Discord, Telegram, Github, Twitter`
+- Website → if you don't have one, you can always generate a landing page using our tools.
 
 Any changes that you make here can be saved using the <Highlight>Save Changes</Highlight> button.
 
@@ -51,6 +52,9 @@ To provide a deeper description of what the project is about, use the `Project D
 :::info
 If your project does not have a description filled out it will not appear in any lists or searches. Hence, we highly recommend you provide a description.
 :::
+
+## Landing Page
+Foundance can help you generate a simple landing page. Since this is closely related to the crowdfunding functionality, it requires to have an organization setup by enacting a [co-founder agreement](https://docs.foundance.org/running-a-foundance/creating-an-agreement/make-agreement). 
 
 ## Project Media
 Over time, you will produce video materials for your Project. Use the media section to add links to those videos and have them rendered onto your Project page in Foundance.

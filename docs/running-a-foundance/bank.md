@@ -53,8 +53,9 @@ All you need to do it:
 
 ![tokens are displayed](/img/7-tokens-are-in.png "tokens are displayed")
 
-[!IMPORTANT]
+:::warning
 As a security measure, new token types are not automatically added to your bank. If you recognise the deposit and want to add them, you need to register the token.
+:::
 
 :::info
 Registering a new token to your bank requires the team's approval.
