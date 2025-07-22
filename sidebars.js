@@ -18,6 +18,7 @@ const sidebars = {
     "welcome",
     "onboarding",
     "your-profile",
+    "a-note-on-fire",
     {
       type: "category",
       label: "(Co)Founder's Journey",
