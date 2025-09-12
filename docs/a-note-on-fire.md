@@ -28,7 +28,7 @@ But we also recognize the realities of today’s funding landscape. To help foun
 - Rank 3: Recognized achievements like University graduates or Hackathon winners
 - Rank 4: Ivy League/Elite university graduates, PHDs, Executives with Leadership position
 - Rank 5: Ivy League/Elite university PHDs, C-Level executives with leadership experience in Top 1000 companies/employee experience in Big Tech (Magnificent 7)
-- Rank 6: Notable accomplishments such as Olympic champions, regatta winners, Corporate C-Level positions in Top 1000 Companies, or leadership roles in Big Tech (M7)
+- Rank 6: Notable accomplishments such as Olympic champions, regatta winners, or leadership roles in Big Tech (M7)
 - Rank 7: Past exits worth 1 million USD, successful funding rounds
 - Rank 8: Exits or funding rounds exceeding 10 million USD as a founder
 - Rank 9: Exits or funding rounds surpassing 100 million USD as a founder
